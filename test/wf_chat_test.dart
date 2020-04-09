@@ -17,8 +17,4 @@ void main() {
   tearDown(() {
     channel.setMockMethodCallHandler(null);
   });
-
-  test('clientId', () async {
-    expect(await _chat.clientId, '42');
-  });
 }
