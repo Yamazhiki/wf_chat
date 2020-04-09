@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wf_chat (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - wf_chat (from `.symlinks/plugins/wf_chat/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  wf_chat:
+    :path: ".symlinks/plugins/wf_chat/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  wf_chat: 1f0c9d83eefe1d6dd4fdaeaed5f7ef2c8d7914b5
+
+PODFILE CHECKSUM: 4a885cb46d3bb10942b316cb69898beded9fa108
+
+COCOAPODS: 1.9.0.beta.2
